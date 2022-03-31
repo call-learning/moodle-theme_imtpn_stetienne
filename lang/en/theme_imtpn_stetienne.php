@@ -26,3 +26,5 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Theme IMT Pédagothèque Numérique (IMT Saint-Etienne)';
 $string['configtitle'] = 'Theme IMT Pédagothèque Numérique (IMT Saint-Etienne)';
+$string['region-content'] = 'Content';
+$string['region-side-pre'] = 'Right';
