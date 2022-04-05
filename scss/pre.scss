@@ -10,5 +10,8 @@
 @import '../../imtpn/scss/abstracts/colors';
 $primary: $imt-stetienne-primary;
 $secondary: $imt-stetienne-secondary;
-$app-gray-1: #84898A;
+//$app-gray-1: #84898A;
 @import "../../imtpn/scss/pre";
+.navbar__logo {
+  height: 80px !important;
+}
